@@ -1,0 +1,12 @@
+{
+    "name": "com.liminal.test.module",
+    "displayName": "Liminal Test Module",
+    "version": "0.0.1",
+    "unity": "2018.3",
+    "description": "A test module",
+    "keywords": [
+        "sdk",
+        "unity"
+    ],
+    "category": "Unity"
+}
